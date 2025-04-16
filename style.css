@@ -80,3 +80,17 @@ nav {
     }
 
 }
+
+.sec_content{
+    margin-top: 100px;
+
+    p{
+        color: aquamarine;
+
+    }
+    
+    h2{
+        color:aqua ;
+    }
+
+}
